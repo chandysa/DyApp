@@ -1,14 +1,1 @@
-{
-	"sms" : [
-		{
-			"id"   : 1,
-			"dest" : "+33600000000",
-			"msg"  : "This is a test sending a SMS from json API"
-		},
-		{
-			"id"   : 2,
-			"dest" : "+33600000000",
-			"msg"  : "This is a second test sending a SMS from json API with more text so it has to be using the multipart API from Android. Still not at 160 characters so just adding some text... hopefully it's good now! :)"
-		}
-	]
-}
+:{"SendMessage":1,"MyMessage":"PuDyLove EiiThan"}
